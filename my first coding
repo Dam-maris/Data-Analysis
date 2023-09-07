@@ -1,2 +1,0 @@
-!pip install yfinance==0.1.67
-!mamba install bs4==4.10.0
