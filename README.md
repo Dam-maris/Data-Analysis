@@ -39,4 +39,4 @@ Or upload the notebook to Google Colab and choose Runtime, then Run all.
 Based on the IBM Python Project for Data Science course. Analysis and extensions by Damaris Nafula Barasa.
 
 ## About me
-Damaris Nafula Barasa | LinkedIn: _add link_ | Portfolio: _add link_
+Damaris | LinkedIn: [LinkedIn](https://www.linkedin.com/in/damaris-barasa-9b543223b/) | Portfolio: [Portfolio](https://damarisbarasa662.wixsite.com/data-analyst-portfol)
